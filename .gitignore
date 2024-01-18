@@ -1,0 +1,6 @@
+/build/_deps/root-build
+/build/_deps/root-subbuild
+/build/.cache/
+/build/.cmake/
+/build/CMakeFiles/
+/build/CMakeCache.txt
